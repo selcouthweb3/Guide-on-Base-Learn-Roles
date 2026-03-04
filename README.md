@@ -4,3 +4,4 @@ Step by step guide
 commit number 3
 commit number 4
 commit number 5
+commit number 6
